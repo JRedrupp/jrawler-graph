@@ -1,0 +1,7 @@
+graph {
+    0 [ label = "\"https://en.wikipedia.org/wiki/Guppy\"" ]
+    1 [ label = "\"https://en.wikipedia.org/wiki/Swim_bladder_disease\"" ]
+    2 [ label = "\"https://en.wikipedia.org/wiki/Fish\"" ]
+    0 -- 1 [ label = "()" ]
+    1 -- 2 [ label = "()" ]
+}
